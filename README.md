@@ -36,4 +36,54 @@ associated to it
 22. **Types_of_special_requests**: Number of special requests made by the customer (e.g. Twin bed or high floor)
 23. **Stays_in_weekend_nights**, **Stays_in_week_nights**: Number of weekend nights and week nights the guest stayed or booked to stay at the hotel.
   ## Problem statement
-  *Bivariate Analysis*
+  **Bivariate Analysis**
+
+Q.1 Does the length of stay have an impact on the ADR?
+
+Q.2 Which hotel has higher lead time?
+
+Q.3 Which hotel has a longer waiting time?
+
+Q.4 Which hotel hs higher booking cancellation rate?
+
+Q.5 Which hotel has a high chance that its customer will return for another stay?
+
+Q.6 Which is most common channel for booking hotels?
+
+Q.7 Which channel is mostly used for early booking of hotels?
+
+Q.8 Which channel has longer average waiting time?
+
+Q.9 Which distribution channels brings better revenue generating deals for hotels?
+
+Q.10 If not getting the same room affects the ADR?
+
+Q.11 How does the booking percentage vary among three categoriesof customer- single, couple and family/friends?
+
+Q.12 Lets predict whether or not a hotel was likely to receive a disproportinately high number of special requests?
+
+Q.13 Special request according to the number of kids?
+
+**Univariate analysis**
+
+Q.14 Which agent makes most number of bookings?
+
+Q.15 Which type is in most demand and which room type generate hifhest ADR?
+
+Q.16 Which meal type is most preferred meal of customers?
+
+Q.17 What is percentage of bookings in each hotels?
+
+Q.18 Which is preferred stay length in each hotel?
+
+Q.19 Which are the most busiest month?
+
+Q.20 Which month yields the highest revenue?
+
+Q.21 Monthly booking analysis of both type of hotel?
+
+Q.22 Yearly booking trend in both type of hotel?
+
+Q.23 From which country most number of guest has arrived?
+
+Q.24 How long do people stay at hotel?
