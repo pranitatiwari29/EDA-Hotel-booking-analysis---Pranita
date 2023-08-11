@@ -87,3 +87,50 @@ Q.22 Yearly booking trend in both type of hotel?
 Q.23 From which country most number of guest has arrived?
 
 Q.24 How long do people stay at hotel?
+
+ ## Solution to Business Objective 
+
+ Here are some suggestion that will help the client to achieve business objectives:
+
+**Booking optimisation:**
+
+* Strengthen partnerships with high-performing agents for increased bookings and revenue.
+* Improve presence and content on GDS platforms to boost bookings.
+* Explore collaborations with travel agencies and online platforms to expand reach.
+
+**Revenue Management:**
+
+* Increase the number of high-demand room types A and H.
+* Price different room types strategically to maximize revenue.
+* Adjust pricing strategies and revenue management techniques based on the ADR performance of each hotel.
+* Optimize pricing during peak and off-peak periods.
+* Resort Hotel need to increase outreach on GDS channel to increase revenue.
+
+**Operations:**
+
+* Optimize inventory and supply management based on most preferred meal types i.e. BB (Bread and breakfast).
+* Assess and optimize strategies related to TA/TO bookings.
+
+**Cancellation Management:**
+* Hotels to assess and optimize their strategies related to bookings made through TA/TO. By analyzing the reasons behind the high cancellation rate and addressing them, hotels can work towards reducing cancellations and improving customer satisfaction and retention.
+* Lead time, Number of waiting days and not getting the requested room types does not impact the cancellation. This information can help hotels focus their efforts on other potential causes of cancellations and develop strategies to reduce them.
+
+**Customer Retention:**
+
+* Focus on customer retention and loyalty programs to encourage repeat bookings and minimize cancellations.
+* Identify and address issues affecting customer trust and satisfaction.
+* For longer stay, the better deal for customer can be finalised.
+
+**Customer Satisfaction:**
+
+* Ensure guests receive requested or comparable rooms.
+* Train staff in foreign languages for better guest experience.
+* Adjust pricing and availability based on booking behavior, lead time and planning patterns.
+
+**Marketing Strategy:**
+
+* Customize marketing tactics, packages, and promotions for each hotel based on their market proportions.
+* Offer discounts or incentives to repeat customers.
+* Enhance customer loyalty and retention strategies by introducing a membership plan based on repeat percentages.
+* Customize marketing tactics based on favored lengths of stay.
+* Prioritize marketing efforts based on countries that contribute the most guests.
