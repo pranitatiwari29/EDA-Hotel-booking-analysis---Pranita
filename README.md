@@ -134,3 +134,21 @@ Q.24 How long do people stay at hotel?
 * Enhance customer loyalty and retention strategies by introducing a membership plan based on repeat percentages.
 * Customize marketing tactics based on favored lengths of stay.
 * Prioritize marketing efforts based on countries that contribute the most guests.
+
+  ## Conclusion
+- City hotels account for approximately 60% of bookings, while Resort hotels comprise around 40% of the bookings.
+- Agent 9 has done the maximum number of bookings.
+- TA/TO channel has the highest booking followed by the corporate channel.
+- Bookings were very low through the GDS channel.
+- Most preferred meal type is BB (Bed and breakfast).
+- Portugal and other European countries have the most guests.
+- Room type A is most preferred followed by D and E.
+- Most stays are usually shorter than 5 days, with a preference for City hotels. Conversely, for longer durations, Resort hotels are the preferred choice.
+- The average ADR of city hotels is slightly higher compared to resort hotels, despite resort hotels having more bookings.
+- Room type H generate highest revnue followed by G.
+- Room type L generated lowest revnue.
+- GDS channel brings higher revenue generating deal, in contrast to that most bookings come via TA/TO.
+- Resort hotel has more revnue generating deals by direct and TA/TO channel. Resort Hotel need to increase outreach on GDS channel to increase revenue.
+- Most of the adr is below 400.
+- As the length of stay increases, the ADR tends to decrease.
+- The non-allocation of the requested room type does have an impact on the average daily rate (ADR). Generally, those who did not receive the requested room type have paid a slightly lower ADR, with only a few exceptions.
